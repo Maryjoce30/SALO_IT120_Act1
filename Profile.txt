@@ -4,4 +4,9 @@ LastName: Salo
 Age: 23
 Birthdate: June 30, 2002
 
+Birth Place: June 30, 2002
+Religion: Christian
+Father’s Name: Mario Mabale Salo
+Mother’s Name: Roselyn Nueva Salo
+
 
