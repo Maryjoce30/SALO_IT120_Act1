@@ -4,7 +4,4 @@ LastName: Salo
 Age: 23
 Birthdate: June 30, 2002
 
-Birth Place: Toledo City, Cebu
-Religion: Christian
-Father’s Name: Mario Salo
-Mother’s Name: Roselyn Salo
+
